@@ -1,34 +1,26 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: A propos du blog
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: feature_1.jpg
+  background: background_1.jpg
 comments: false
-modified: 2014-12-24
+modified: 2015-03-29
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+Ce blog a uniquement pour objectif de vous faire part de mes coups de coeur, qu'ils soient musicaux ou liés à ma curiosité incessante sur le domaine de la High-Tech.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+Au programme donc : quelques envolées sur le dernier album de bidule, mon dernier concert, la dernière appli pour smartphone ou le dernier objet Geek qui m'ont titillé le cervelet ! 
 
-## What HPSTR brings to the table:
+Vous ne couperez pas non plus à quelques brèves sur la guitare, qui est mon principal hobby.
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+Et quelques articles sur la plongée, ça vous irait ?
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+Pour me contacter, pas la peine de miser sur les réseaux sociaux, je n'y suis pas !
+Un petit mail, un coup de téléphone (pour les chanceux qui ont mon numéro) ou un petit tchat vocal avec l'application Cord (qui fait l'objet d'une brève), et voilà !
 
-[^1]: Example: *domain.com/category-name/post-title*
+J'espère ques vous aurez autant de plaisir à lire ces brèves que moi à les écrire.
+
+A bientôt.
+
+6ril
