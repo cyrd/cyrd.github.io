@@ -27,6 +27,6 @@ J'utilise cette application depuis quelques semaines et c'est un exemple d'ergon
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/Alphplt5v3Y" frameborder="0"> </iframe>
 
-Maintenant, l'application est encore jeune et quelques problèmes mineures subsistent. Mais la réactivité et la sympathie de l'équipe de développement est telle qu'il faut y aller sans hésiter ! Merci à Thomas (l'un des deux fondateurs) d'avoir répondu en personne et avec rapidité lorsque je lui ai signalé un bug.
+Maintenant, l'application est encore jeune et quelques problèmes mineurs subsistent. Mais la réactivité et la sympathie de l'équipe de développement est telle qu'il faut y aller sans hésiter ! Merci à Thomas (l'un des deux fondateurs) d'avoir répondu en personne et avec rapidité lorsque je lui ai signalé un bug.
 
 Alors, on se fait un petit tchat ... tous les deux ?
