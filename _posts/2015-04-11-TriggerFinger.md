@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Triggerfinger : de vrais gâchettes ces types !"
+title: "Triggerfinger : de vraies gâchettes ces types !"
 description: "Mon coup de cœur Rock de début 2015"
 comments: false
 image:
@@ -12,7 +12,7 @@ tags: [musique, rock, groupe, concert]
 Pour le titre de l'article, un p'tit tour sur Google Traduction et vous comprendrez !
 Pour tout vous dire, le groupe dont je vais vous parler ici (**Triggerfinger**) c'est vraiment mon coup de cœur musical du moment. Ça me fait tellement de bien qu'il me faut écouter le dernier album plusieurs fois par semaine (c'est bon pour ma forme !). Avant de poursuivre, vous devez juste savoir qu'il s'agit de rock un peu énergique. A déconseiller avant de dormir !
 
-Bon, tout a démarré par la lecture d'un petit article sur le groupe (je ne sais plus dans quel canard mais peu importe ...). Ça m'as mis l'eau à la bouche.
+Bon, tout a démarré par la lecture d'un petit article sur le groupe (je ne sais plus dans quel canard mais peu importe ...). Ça m'a mis l'eau à la bouche.
 J'ai alors écouté le dernier album sur Deezer, et là, j'ai commencé à ressentir un petit truc que je n'avais pas connu depuis un moment.
 Comme je n'avais pas fait de concert avec mon pote V. depuis plusieurs mois, j'ai cherché si Triggerfinger passaient en live dans ma banlieue.
 Et oui, mon truc à moi, c'est les petites salles. C'est dans ce type de lieux que je ressens le plus d'émotions et que je me fais vraiment plaisir.
@@ -25,7 +25,7 @@ C'est un groupe australien, Dallas Frasca. C'est du Blues-Rock puissant, authent
 La voix de la chanteuse est superbe.
 Ils viennent de sortir un nouvel album, Love Army. Vous pouvez l'écouter sur [Deezer](http://www.deezer.com/album/9793458).
 
-Maintenant, entracte, petite bière ambrée donc !.
+Maintenant, entracte, petite bière ambrée donc.
 Là, V. jette un œil sur les guitares basse installées sur scène. Pas moins de 5 basses, dont 3 Rickenbacker (les amateurs connaissent le niveau de qualité de ces guitares).
 Côté guitare électrique, un seul instrument ... Étonnant, les guitaristes sont plutôt friands de matos traditionnellement...
 
