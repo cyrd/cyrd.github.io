@@ -15,6 +15,7 @@ body {
 	}
 }
 .entry-content {
+	text-align: justify;
 	@include font-size(16);
 	// Dotted line underlines for links
 	p > a,
@@ -166,7 +167,7 @@ body {
 	}
 	.vcard {
 		&:before {
-			content: " by ";
+			content: " par ";
 		}
 	}
 	.tag {
